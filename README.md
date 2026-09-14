@@ -1,4 +1,4 @@
-﻿# AWS Certified Developer Associate DVA-C02 - Study Notes
+﻿# AWS Certified Developer Associate DVA-C02 - Notes
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-DVA--C02-orange" />
@@ -8,13 +8,12 @@
   <img src="https://img.shields.io/badge/License-MIT-green" />
 </p>
 
-A structured collection of study notes, architecture diagrams, and hands-on labs for the AWS Certified Developer – Associate (DVA-C02), focused on building practical skills and real-world understanding.
+A structured collection of notes, architecture diagrams, and hands-on labs for the AWS Certified Developer – Associate (DVA-C02), focused on building practical skills and real-world understanding.
 
 ---
 
 ## 📘 Overview
-This repository is a free and open-source study guide for the AWS Certified Developer – Associate (DVA-C02) exam.  
-It combines concise theory, architecture patterns, and practical labs to reinforce learning.
+This repository is a free and open-source study guide for the AWS Certified Developer – Associate (DVA-C02) exam.  It combines concise theory, architecture patterns, and practical labs to reinforce learning.
 
 ---
 
@@ -39,11 +38,10 @@ It combines concise theory, architecture patterns, and practical labs to reinfor
 - EC2 (Fundamentals, Advanced, and Instance Storage)
 - AWS Lamda
 - AWS Step Functions, AWS AppSync, AWS Amplify, AWS Serverless Application Model (AWS SAM)
-- VPC
-- Security & Encryption
+- VPC, Security & Encryption
 - High Availability & Scalability
 - RDS, Aurora, and ElastiCache
-- Route 53
+- CloudFront, Route 53
 
 ### Part 2 — Storage, Messaging
 - S3 (Introduction, Advanced, Security)
@@ -53,8 +51,8 @@ It combines concise theory, architecture patterns, and practical labs to reinfor
 - AWS Elastic Beanstalk
 - AWS CloudFormation
 - AWS Monitoring, Troubleshooting & Audit
-- Amazon DynamoDB
-- Amazon API Gateway
+- DynamoDB
+- API Gateway
 - AWS CI/CD
 - AWS Cloud Development Kit (AWS CDK)
 - Other Services
