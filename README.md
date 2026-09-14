@@ -13,7 +13,24 @@ A structured collection of notes, architecture diagrams, and hands-on labs for t
 ---
 
 ## 📘 Overview
+
 This repository is a free and open-source study guide for the AWS Certified Developer – Associate (DVA-C02) exam.  It combines concise theory, architecture patterns, and practical labs to reinforce learning.
+
+Content domains and weightings:
+
+- Domain 1: Development with AWS Services (32% of scored content)
+- Domain 2: Security (26% of scored content)
+- Domain 1: Deployment (24% of scored content)
+- Domain 1: Troubleshooting and Optimization (18% of scored content)
+
+Key AWS services:
+
+Tier 1: Lambda, API Gateway, DynamoDB, IAM, S3, SQS and SNS
+
+Tier 2: Cognito, KMS, Secret Manager and Parameter Store, X-Ray, CloudWatch, CodePipeline, Code,Commit, CodeBuilde, CodeDeploy, CloudFormation, 
+        SAM, EventBridge, Step Functions, ElastiCache, Elastic Beanstalk, ECS
+
+Tier 3: Kinesis Data Stream, Kinesis Data FireHose, AppSync, Amplify
 
 ---
 
