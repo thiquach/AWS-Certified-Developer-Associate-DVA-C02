@@ -34,26 +34,25 @@ Other services: Elastic Load Balancing, Auto Scaling, Amazon API Gateway, Amazon
 
 ## 🧭 Topics Covered
 
-AWS Fundamentals
+### Part 1 — Core Services & Compute
 AWS IAM
-Amazon EC2 Basics
-Amazon VPC Basics
-Amazon S3 Basics
-Amazon EC2 Instance Storage
+EC2 (Fundamentals, Advanced, and Instance Storage)
+AWS Lamda
+AWS Step Functions, AWS AppSync, AWS Amplify, AWS Serverless Application Model (AWS SAM)
+VPC
+Security & Encryption
 High Availability & Scalability
 RDS, Aurora, and ElastiCache
-Amazon Route 53
-AWS CLI, SDK, IAM Roles * Policies
-Advanced Identity in AWS
-Amazon Cognito
-AWS Security & Encryption
-Amazon S3 Advanced
-Amazon S3 Security
+Route 53
+
+### Part 2 — Storage, Messaging
+S3 (Introduction, Advanced, Security)
+IAM & AWS CLI
+Advanced IAM, and Amazon Cognito
+SDK, IAM Roles * Policies
 AWS Elastic Beanstalk
 AWS CloudFormation
 AWS Monitoring, Troubleshooting & Audit
-AWS Lamda
-AWS Step Functions, AWS AppSync, AWS Amplify, AWS Serverless Application Model (AWS SAM)
 Amazon DynamoDB
 Amazon API Gateway
 AWS CI/CD
