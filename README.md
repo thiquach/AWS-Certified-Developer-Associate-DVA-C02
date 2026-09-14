@@ -18,7 +18,7 @@ It combines concise theory, architecture patterns, and practical labs to reinfor
 
 ---
 
-AWS Services covered
+## AWS Services covered
 
 AWS Global Services: Amazon CloudFront, Amazon Route 53
 Identity & Access Mangement: AWS IAM, Amazon Cognito
@@ -32,7 +32,7 @@ Monitoring, Troubleshooting, and Audit: Amazon CloudWatch, AWS CloudTrail, AWS X
 AWS CI/CD: AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline
 Other services: Elastic Load Balancing, Auto Scaling, Amazon API Gateway, Amazon EC2 Systems Manager, AWS Cloud Formation
 
-Topics Covered
+## 🧭 Topics Covered
 
 AWS Fundamentals
 AWS IAM
@@ -60,14 +60,14 @@ AWS CI/CD
 AWS Cloud Development Kit (AWS CDK)
 Other Services
 
-Hands-on Labs
+## 🧪 Hands-on Labs
 Step-by-step labs to build and reinforce real-world AWS solutions.
 
-Exam Notes
+## 📝 Exam Notes
 Concise summaries and key takeaways for quick revision.
 
-Useful Links
-Exam Guide
-AWS Glossary
-AWS Blog
-Tutorial Dojo cheat-sheet
+## 🔗 Useful Links
+- [Exam Guide](https://docs.aws.amazon.com/pdfs/aws-certification/latest/developer-associate-02/developer-associate-02.pdf)
+- [AWS Glossary](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html)
+- [AWS Blog](https://aws.amazon.com/blogs/aws/new-elastic-network-interfaces-in-the-virtual-private-cloud/)
+- [Tutorial Dojo cheat-sheet](https://tutorialsdojo.com/aws-cheat-sheets/)
