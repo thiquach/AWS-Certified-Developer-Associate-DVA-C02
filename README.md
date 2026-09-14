@@ -20,44 +20,44 @@ It combines concise theory, architecture patterns, and practical labs to reinfor
 
 ## AWS Services covered
 
-AWS Global Services: Amazon CloudFront, Amazon Route 53
-Identity & Access Mangement: AWS IAM, Amazon Cognito
-Compute and containers: Amazon EC2, Amazon ECR, Amazon ECS, Amazon EKS
-Serverless:  AWS Lambda, AWS Step Functions, AWS AppSync, AWS Amplify, AWS Serverless Application Model (AWS SAM)
-Database: Amazon RDS, Amazon Aurora, Amazon DynamoDB, Amazon ElastiCache
-Security & Networking: Amazon VPC, AWS KMS
-Storage: Amazon S3
-Integration & Messaging: AWS Elastic Beanstalk, Amazon SQS, Amazon SNS, Amazon SES (Simple Email Service), Amazon Kinesis
-Monitoring, Troubleshooting, and Audit: Amazon CloudWatch, AWS CloudTrail, AWS X-Ray, Amazon EventBridge
-AWS CI/CD: AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline
-Other services: Elastic Load Balancing, Auto Scaling, Amazon API Gateway, Amazon EC2 Systems Manager, AWS Cloud Formation
+- AWS Global Services: Amazon CloudFront, Amazon Route 53
+- Identity & Access Mangement: AWS IAM, Amazon Cognito
+- Compute and containers: Amazon EC2, Amazon ECR, Amazon ECS, Amazon EKS
+- Serverless:  AWS Lambda, AWS Step Functions, AWS AppSync, AWS Amplify, AWS Serverless Application Model (AWS SAM)
+- Database: Amazon RDS, Amazon Aurora, Amazon DynamoDB, Amazon ElastiCache
+- Security & Networking: Amazon VPC, AWS KMS
+- Storage: Amazon S3
+- Integration & Messaging: AWS Elastic Beanstalk, Amazon SQS, Amazon SNS, Amazon SES (Simple Email Service), Amazon Kinesis
+- Monitoring, Troubleshooting, and Audit: Amazon CloudWatch, AWS CloudTrail, AWS X-Ray, Amazon EventBridge
+- AWS CI/CD: AWS CodeCommit, AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline
+- Other services: Elastic Load Balancing, Auto Scaling, Amazon API Gateway, Amazon EC2 Systems Manager, AWS Cloud Formation
 
 ## 🧭 Topics Covered
 
 ### Part 1 — Core Services & Compute
-AWS IAM
-EC2 (Fundamentals, Advanced, and Instance Storage)
-AWS Lamda
-AWS Step Functions, AWS AppSync, AWS Amplify, AWS Serverless Application Model (AWS SAM)
-VPC
-Security & Encryption
-High Availability & Scalability
-RDS, Aurora, and ElastiCache
-Route 53
+- AWS IAM
+- EC2 (Fundamentals, Advanced, and Instance Storage)
+- AWS Lamda
+- AWS Step Functions, AWS AppSync, AWS Amplify, AWS Serverless Application Model (AWS SAM)
+- VPC
+- Security & Encryption
+- High Availability & Scalability
+- RDS, Aurora, and ElastiCache
+- Route 53
 
 ### Part 2 — Storage, Messaging
-S3 (Introduction, Advanced, Security)
-IAM & AWS CLI
-Advanced IAM, and Amazon Cognito
-SDK, IAM Roles * Policies
-AWS Elastic Beanstalk
-AWS CloudFormation
-AWS Monitoring, Troubleshooting & Audit
-Amazon DynamoDB
-Amazon API Gateway
-AWS CI/CD
-AWS Cloud Development Kit (AWS CDK)
-Other Services
+- S3 (Introduction, Advanced, Security)
+- IAM & AWS CLI
+- Advanced IAM, and Amazon Cognito
+- SDK, IAM Roles * Policies
+- AWS Elastic Beanstalk
+- AWS CloudFormation
+- AWS Monitoring, Troubleshooting & Audit
+- Amazon DynamoDB
+- Amazon API Gateway
+- AWS CI/CD
+- AWS Cloud Development Kit (AWS CDK)
+- Other Services
 
 ## 🧪 Hands-on Labs
 Step-by-step labs to build and reinforce real-world AWS solutions.
